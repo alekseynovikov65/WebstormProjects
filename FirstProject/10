@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Doc10</title>
+</head>
+<body>
+<div>
+    <h1>ГЛАВНАЯ</h1>
+    <a>старт</a>
+    <a>картина1</a>
+    <a>картина2</a>
+    <a>финиш</a>
+</div>
+
+</body>
+</html>
